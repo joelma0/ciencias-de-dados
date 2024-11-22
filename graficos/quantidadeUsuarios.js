@@ -19,4 +19,4 @@ async function quantidadeUsuarios() {
     document.getElementById('graficos-container').appendChild(grafico)
     Plotly.newPlot(grafico, data)
 }
-quantidadeUsuarios()
+quantidadeUsuarioshttps://raw.githubusercontent.com/silviosnjr/CienciaDeDados-CriandoGraficosDinamicosComJavaScript/refs/heads/Aula01/transporte/transporte-dados-globais.json
